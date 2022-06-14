@@ -1,0 +1,16 @@
+gomma
+carta
+bicchiere
+luce
+pianura
+montagna
+sole
+luna
+cappello
+tunisino
+palla
+telefono
+schermo
+bottiglia
+matematica
+fisica
